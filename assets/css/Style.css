@@ -1,0 +1,25 @@
+h1{
+    color:black;
+    text-align: center;
+}
+
+
+
+tr {
+    border: solid grey;
+}
+td{
+    font-weight: bold;
+}
+
+
+body{
+    color: #7aaccf;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(88,87,117,1) 12%, rgba(72,72,96,1) 48%, rgba(0,212,255,1) 100%);;
+
+}
+
+
+
+
